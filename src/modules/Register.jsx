@@ -17,7 +17,7 @@ const RegisterPage = () => {
   }, []);
   return (
     <>
-      <Typography variant="h4">Register Page</Typography>
+      <Typography variant="h4">Register</Typography>
       <Box
         sx={{
           display: "flex",

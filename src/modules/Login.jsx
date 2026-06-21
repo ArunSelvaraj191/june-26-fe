@@ -25,7 +25,7 @@ const LoginPage = () => {
   }, []);
   return (
     <>
-      <Typography variant="h4">Login Page</Typography>
+      <Typography variant="h4">Login</Typography>
       <Box
         sx={{
           display: "flex",

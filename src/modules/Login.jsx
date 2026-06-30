@@ -54,7 +54,7 @@ const LoginPage = () => {
 
   return (
     <>
-      <Typography variant="h4">Login</Typography>
+      <Typography variant="h4">Login Page</Typography>
       <Box
         sx={{
           display: "flex",

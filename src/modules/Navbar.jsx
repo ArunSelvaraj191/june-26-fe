@@ -9,7 +9,6 @@ import { ThemeContext } from "./ThemeContext";
 
 const Navbar = () => {
   const { theme, toggleTheme } = useContext(ThemeContext);
-  console.log("theme ::", theme);
   return (
     <Box>
       <AppBar position="static">
